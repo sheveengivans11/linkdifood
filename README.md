@@ -1,4 +1,4 @@
-# Linkdifood
+# Linkdifood - linkdifood-g7zv.vercel.app
 
 Linkdifood is a Next.js app for discovering Jamaican cook shops, checking food availability, estimating wait times, and supporting separate customer and business flows.
 
